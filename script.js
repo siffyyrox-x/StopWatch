@@ -14,7 +14,7 @@ function startTimer() {
                     stopTimer();
                 }
             }
-        }, 3000);
+        }, 1000);
     }
 }
 
