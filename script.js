@@ -26,7 +26,6 @@ function stopTimer() {
 }
 
 function resetTimer() {
-    stopTimer();
     currentTime = 0;
     document.getElementById('display').innerHTML = currentTime;
 }
